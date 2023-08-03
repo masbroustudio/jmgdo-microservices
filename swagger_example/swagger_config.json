@@ -5,7 +5,7 @@
       "title": "Task Organizer",
       "description": "Organize and maintain tasks"
     },
-    "host": "<Your application URL>",
+    "host": "https://yudhae-5000.theia-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/",
     "paths": {
       "/tasks": {
         "get": {
